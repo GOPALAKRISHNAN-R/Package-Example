@@ -7,6 +7,7 @@ import addition.Add2No;
  * Simple Java program for Package
  * @author R.GOPALAKRISHNAN
  * @author www.rgopalakrishnanmca.simplesite.com
+ * @author rgopalakrishnanmca@gmail.com
  **/
 
 public class Sample 
