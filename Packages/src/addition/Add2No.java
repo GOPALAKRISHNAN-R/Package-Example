@@ -2,7 +2,6 @@ package addition;
 
 public class Add2No 
 {
-	public static void main(String args[]) {
 		
 	public int add(int a,int b)
 	{
@@ -14,7 +13,6 @@ public class Add2No
 	{
 		float c=a+b;
 		return c;
-	}
 	}
 		
 
