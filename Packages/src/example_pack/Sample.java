@@ -1,7 +1,7 @@
 package example_pack;
 
 import java.util.Scanner;
-import Packages.src.additionaddition.Add2No;
+import Packages.src.addition.Add2No;
 
 /**
  * Simple Java program for Package
